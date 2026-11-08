@@ -1,4 +1,7 @@
-export default function About ({image, about}) {
+export default function About({
+  image = 'https://via.placeholder.com/215',
+  about
+}) {
   return (
     <aside className="about">
       <img src={image} alt="blog logo"></img>
