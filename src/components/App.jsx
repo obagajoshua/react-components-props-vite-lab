@@ -1,6 +1,6 @@
-import About from "./components/About.jsx";
-import ArticleList from "./components/ArticleList";
-import Header from "./components/Header";
+import About from './About'
+import ArticleList from './ArticleList'
+import Header from './Header'
 import blog from "./blog";
 import './App.css'
 
